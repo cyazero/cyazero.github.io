@@ -1,0 +1,4 @@
+baseURL: 'https://cyazero.github.io/'
+languageCode: 'zh-cn'
+title: "cyazero的blog"
+theme: 'PaperMod'
